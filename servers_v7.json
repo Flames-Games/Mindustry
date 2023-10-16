@@ -259,5 +259,9 @@
   {
     "name": "Atomic",
     "address": ["atomic-lab.ddns.net:25709", "atomic-lab.ddns.net:25907"]
+  },
+  {
+    "name": "Brasil Mindustry",
+    "address": ["194.247.42.181:27285"]
   }
 ]
